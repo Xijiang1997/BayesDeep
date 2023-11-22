@@ -13,6 +13,4 @@ The spot-resolution gene expression data, along with the single-cell-resolution 
 ## Tutorial
 For the step-by-step tutorial, please refer to: BayesDeep_tutorial.html
 
-Data used for the analysis can be downloaded from ‘Data_for_BayesDeep’ folder on the Dropbox: 
-
-https://www.dropbox.com/scl/fo/5wj49vf8561h5nl8mc4pu/h?rlkey=q1xssoiqnenq6ohaxrioflk40&dl=0
+Data used for the analysis can be downloaded from ‘Data_for_BayesDeep’ folder on the Dropbox: https://www.dropbox.com/scl/fo/5wj49vf8561h5nl8mc4pu/h?rlkey=q1xssoiqnenq6ohaxrioflk40&dl=0
