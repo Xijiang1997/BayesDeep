@@ -11,6 +11,6 @@ The spot-resolution gene expression data, along with the single-cell-resolution 
 ![flowchart](flowchart.png)
 
 ## Tutorial
-For the step-by-step tutorial, please refer to: BayesDeep_tutorial.html
+For the step-by-step tutorial, please refer to: https://htmlpreview.github.io/?https://github.com/Xijiang1997/BayesDeep/blob/main/BayesDeep_tutorial.html
 
 Data used for the analysis can be downloaded from ‘Data_for_BayesDeep’ folder on the Dropbox: https://www.dropbox.com/scl/fo/5wj49vf8561h5nl8mc4pu/h?rlkey=q1xssoiqnenq6ohaxrioflk40&dl=0
